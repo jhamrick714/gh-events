@@ -18,4 +18,5 @@ HelpBox.propTypes = {
 
 export default HelpBox;
 
-// Testing a change
+// Testing a Manual Cancel
+// Testing a Skip
